@@ -1,0 +1,14 @@
+Project
+=======
+DUT-Modular
+
+Project Number		: 1166
+Version			: 10
+Project Decription	: KI-Power Projkt Motorbrücke
+Ordering Number		: 
+
+
+Changed in this version:
+V00 => V10:
+ - neue GaN-Transistoren
+
