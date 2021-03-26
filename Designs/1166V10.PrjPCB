@@ -188,6 +188,10 @@ Variation21=Designator=R102|UniqueId=\MBWCLMBF|Kind=1|AlternatePart=
 Variation22=Designator=R?|UniqueId=\SIJLCKVY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - 1166V10.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
