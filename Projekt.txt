@@ -3,7 +3,7 @@ Project
 DUT-Modular
 
 Project Number		: 1166
-Version			: 30
+Version			: 31
 Project Decription	: KI-Power Projkt Motorbrücke
 Ordering Number		: 
 
@@ -23,3 +23,6 @@ V10 => V20:
 
 V20 => V30:
  - neue GaN-Transistoren (EPC2206)
+
+V30 => V31:
+ - Temperatursensor über PWM-Baustein nach außen gelegt

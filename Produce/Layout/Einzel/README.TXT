@@ -1,8 +1,8 @@
 READ ME
 =======
 
-Project Number	: 1166V30
-Date		: 15.09.2021
+Project Number	: 1166V31
+Date		: 15.11.2021
 
 
 Layout Drawing by: 
@@ -20,7 +20,7 @@ Document descriptions
 =====================
 Dimension: 100 x 156 mm
 min. Drill Hole 0.2 mm
-Track-Thickness / Clearance 0.203 mm / 0.203 mm
+Track-Thickness / Clearance 0.203 mm / 0.127 mm
 CU-Thickness  70 µm (all Layer)
 
 Gerberfile for PCB manufacturer:
