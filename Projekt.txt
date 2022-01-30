@@ -3,7 +3,7 @@ Project
 DUT-Modular
 
 Project Number		: 1166
-Version			: 10
+Version			: 30
 Project Decription	: KI-Power Projkt Motorbrücke
 Ordering Number		: 
 
@@ -12,3 +12,14 @@ Changed in this version:
 V00 => V10:
  - neue GaN-Transistoren
 
+V10 => V11:
+ - L102 weiter nach innen gerückt
+ - C235, C330, C430 & C518 von 100nF auf 22pF geändert
+
+V10 => V20:
+ - L102 weiter nach innen gerückt
+ - C235, C330, C430 & C518 von 100nF auf 22pF geändert
+ - Massen im LOW-Zweig aufgeteilt
+
+V20 => V30:
+ - neue GaN-Transistoren (EPC2206)
